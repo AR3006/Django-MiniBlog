@@ -1,0 +1,2 @@
+# Django-MiniBlog
+Django Project
